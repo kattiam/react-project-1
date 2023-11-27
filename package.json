@@ -1,0 +1,30 @@
+{
+  "name": "namaste_react",
+  "version": "1.0.0",
+  "description": "react project ",
+  "scripts": {
+    "test": "jest",
+    "start": "parcel index.html",
+    "build": "parecel build index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kattiam/react-project-1.git"
+  },
+  "author": "amogh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kattiam/react-project-1/issues"
+  },
+  "homepage": "https://github.com/kattiam/react-project-1#readme",
+  "devDependencies": {
+    "parcel": "^2.10.3"
+  },
+  "dependencies": {
+    "react": "^18.2.0"
+  },
+  "browserslist":[
+    "last 10 version"
+  ]
+  
+}
